@@ -77,14 +77,14 @@
 		},
 		{
 			"name": "House For Rent In Milton",
-			"type": "sale",
+			"type": "rent",
 			"userRef": "ID OF A USER",
 			"bedrooms": 3,
 			"bathrooms": 2,
 			"parking": true,
 			"furnished": false,
 			"offer": false,
-			"regularPrice": 630000,
+			"regularPrice": 6300,
 			"location": "810 North Lyme Drive Milton, MA 02186",
 			"geolocation": {
 				"lat": "42.247270",
