@@ -33,7 +33,7 @@ function Slider() {
 			setLoading(false);
 		};
 		fetchListings();
-	}, [listings]);
+	}, []);
 
 	if (loading) return <Spinner />;
 
